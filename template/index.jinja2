@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FastAPI + Jinja2 + SQLite</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>✅ FastAPI + Jinja2 + SQLite</h1>
+    <p>Users from DB:</p>
+
+    <ul>
+        {% for user in users %}
+            <li>{{ user["id"] }} - {{ user["name"] }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="/dashboard">Go to Dashboard</a>
+</body>
+</html>
