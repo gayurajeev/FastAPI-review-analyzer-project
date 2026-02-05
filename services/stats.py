@@ -125,3 +125,39 @@ def calculate_advanced_metrics(reviews):
         "polarity": calc_metrics(polarities)
     }
 
+def get_sentiment_by_rating(reviews):
+    """Calculate average sentiment polarity for each star rating (1-5)"""
+    # Initialize buckets
+    rating_buckets = {1: [], 2: [], 3: [], 4: [], 5: []}
+    
+    for r in reviews:
+        try:
+            rating = int(round(r.get("rating", 0)))
+            if 1 <= rating <= 5:
+                # Use polarity if available, else 0
+                polarity = r.get("polarity", 0)
+                if polarity is None: polarity = 0
+                rating_buckets[rating].append(polarity)
+        except:
+            continue
+            
+    # Calculate averages
+    averages = []
+    for star in range(1, 6):
+        vals = rating_buckets[star]
+        if vals:
+            avg = sum(vals) / len(vals)
+            # Normalize to 0-100 scale for chart (approx) or keep -1 to 1?
+            # Chart usually expects percentage or similar. Let's map -1..1 to 0..100% 
+            # where 0 is -1, 50 is 0, 100 is +1.
+            # actually better to just return the polarity avg and let frontend handle or pre-process.
+            # But specific dashboard chart seems to range 0-100%.
+            # Let's start with mapping: (val + 1) * 50
+            normalized = (avg + 1) * 50
+            averages.append(round(normalized, 1))
+        else:
+            averages.append(0)
+            
+    return averages
+
+

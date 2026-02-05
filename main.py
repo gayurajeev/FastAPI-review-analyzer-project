@@ -6,7 +6,7 @@ from fastapi.templating import Jinja2Templates
 from configs.database import init_db, get_db
 from services.scraper import scrape_reviews, extract_product_details
 from services.sentiment import analyze_sentiment
-from services.stats import calculate_stats, calculate_correlations, calculate_detailed_sentiment_distribution, calculate_advanced_metrics
+from services.stats import calculate_stats, calculate_correlations, calculate_detailed_sentiment_distribution, calculate_advanced_metrics, get_sentiment_by_rating
 from services.plots import (
     generate_review_length_plot, 
     generate_sentiment_polarity_plot,
@@ -230,12 +230,16 @@ def dashboard(request: Request):
     detailed_sentiment = calculate_detailed_sentiment_distribution(reviews)
     advanced_metrics = calculate_advanced_metrics(reviews)
 
+    # Calculate sentiment by rating for charts
+    sentiment_by_rating = get_sentiment_by_rating(reviews)
+
     return templates.TemplateResponse("dashboard.jinja2", {
         "request": request, 
         "stats": stats, 
         "correlations": correlations,
         "detailed_sentiment": detailed_sentiment,
-        "advanced_metrics": advanced_metrics
+        "advanced_metrics": advanced_metrics,
+        "sentiment_by_rating": sentiment_by_rating
     })
 
 

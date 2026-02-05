@@ -338,21 +338,12 @@
             labels: ['1 Star', '2 Stars', '3 Stars', '4 Stars', '5 Stars'],
             datasets: [
               {
-                label: 'Positive Sentiment',
-                data: [5, 15, 45, 80, 95],
-                borderColor: '#81c784',
-                backgroundColor: 'rgba(129, 199, 132, 0.1)',
+                label: 'Avg Sentiment Score (0-100)',
+                data: {{ sentiment_by_rating | tojson }},
+                borderColor: '#64b5f6',
+                backgroundColor: 'rgba(100, 181, 246, 0.1)',
                 tension: 0.4,
-                pointBackgroundColor: '#81c784',
-                fill: true
-              },
-              {
-                label: 'Negative Sentiment',
-                data: [90, 70, 35, 15, 5],
-                borderColor: '#e57373',
-                backgroundColor: 'rgba(229, 115, 115, 0.1)',
-                tension: 0.4,
-                pointBackgroundColor: '#e57373',
+                pointBackgroundColor: '#64b5f6',
                 fill: true
               }
             ]
