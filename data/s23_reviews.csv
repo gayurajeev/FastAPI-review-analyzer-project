@@ -1,0 +1,101 @@
+product_id,review_title,review_text,rating,sentiment,polarity,created_at
+2f1a867c05b55f2b,Amazing camera,Build quality feels very premium in hand.,4,positive,0.85,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Phone works fine for normal usage.,3,neutral,-0.11,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Phone works fine for normal usage.,3,neutral,-0.15,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Phone works fine for normal usage.,3,neutral,-0.14,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Nothing exceptional but reliable.,3,neutral,-0.15,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Performance and battery are balanced.,3,neutral,0.0,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Device heats up during gaming.,2,negative,-0.79,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Performance and battery are balanced.,3,neutral,0.08,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Battery drains faster than expected.,2,negative,-0.55,2026-02-06 05:33:54
+2f1a867c05b55f2b,Heating issues,Battery drains faster than expected.,2,negative,-0.77,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Overall experience is acceptable.,3,neutral,-0.17,2026-02-06 05:33:54
+2f1a867c05b55f2b,Too expensive,Speaker output is just average.,1,negative,-0.99,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Build quality feels very premium in hand.,5,positive,0.97,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Build quality feels very premium in hand.,5,positive,0.99,2026-02-06 05:33:54
+2f1a867c05b55f2b,Blazing fast phone,Display quality is stunning and vibrant.,4,positive,0.98,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Not much improvement over previous model.,1,negative,-0.86,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Nothing exceptional but reliable.,3,neutral,0.14,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Performance and battery are balanced.,3,neutral,0.1,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Camera performance is outstanding and captures great detail.,4,positive,0.73,2026-02-06 05:33:54
+2f1a867c05b55f2b,Not worth upgrade,Speaker output is just average.,2,negative,-0.87,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Phone works fine for normal usage.,3,neutral,-0.09,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Camera is good but not revolutionary.,3,neutral,-0.05,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Camera performance is outstanding and captures great detail.,4,positive,0.88,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Battery drains faster than expected.,2,negative,-0.36,2026-02-06 05:33:54
+2f1a867c05b55f2b,Premium build quality,Runs extremely smooth with no lag in daily use.,5,positive,0.6,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Display quality is stunning and vibrant.,4,positive,0.4,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Nothing exceptional but reliable.,3,neutral,0.0,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Overall experience is acceptable.,3,neutral,0.02,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Phone works fine for normal usage.,3,neutral,0.0,2026-02-06 05:33:54
+2f1a867c05b55f2b,Too expensive,Price feels too high for the upgrade.,2,negative,-0.52,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Nothing exceptional but reliable.,3,neutral,0.07,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Camera performance is outstanding and captures great detail.,5,positive,0.49,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Display quality is stunning and vibrant.,4,positive,0.64,2026-02-06 05:33:54
+2f1a867c05b55f2b,Not worth upgrade,Device heats up during gaming.,2,negative,-0.94,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Battery drains faster than expected.,2,negative,-0.46,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Speaker output is just average.,1,negative,-0.66,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Camera is good but not revolutionary.,3,neutral,0.01,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Overall experience is acceptable.,3,neutral,0.02,2026-02-06 05:33:54
+2f1a867c05b55f2b,Blazing fast phone,Performance is top tier and reliable.,5,positive,0.67,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Camera performance is outstanding and captures great detail.,4,positive,0.93,2026-02-06 05:33:54
+2f1a867c05b55f2b,Too expensive,Price feels too high for the upgrade.,2,negative,-0.4,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Runs extremely smooth with no lag in daily use.,5,positive,0.53,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Price feels too high for the upgrade.,1,negative,-0.68,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Camera performance is outstanding and captures great detail.,4,positive,0.65,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Price feels too high for the upgrade.,1,negative,-0.5,2026-02-06 05:33:54
+2f1a867c05b55f2b,Decent overall,Phone works fine for normal usage.,3,neutral,0.09,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Battery drains faster than expected.,2,negative,-0.64,2026-02-06 05:33:54
+2f1a867c05b55f2b,Heating issues,Price feels too high for the upgrade.,1,negative,-0.71,2026-02-06 05:33:54
+2f1a867c05b55f2b,Decent overall,Overall experience is acceptable.,3,neutral,-0.09,2026-02-06 05:33:54
+2f1a867c05b55f2b,Too expensive,Price feels too high for the upgrade.,2,negative,-0.59,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Performance and battery are balanced.,3,neutral,0.04,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Device heats up during gaming.,2,negative,-0.58,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Overall experience is acceptable.,3,neutral,-0.03,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Performance is top tier and reliable.,4,positive,0.85,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Phone works fine for normal usage.,3,neutral,0.11,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Phone works fine for normal usage.,3,neutral,0.19,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Not much improvement over previous model.,1,negative,-0.41,2026-02-06 05:33:54
+2f1a867c05b55f2b,Average speaker,Not much improvement over previous model.,2,negative,-0.32,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Camera performance is outstanding and captures great detail.,5,positive,0.66,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Performance is top tier and reliable.,4,positive,0.33,2026-02-06 05:33:54
+2f1a867c05b55f2b,Too expensive,Not much improvement over previous model.,1,negative,-0.44,2026-02-06 05:33:54
+2f1a867c05b55f2b,Heating issues,Not much improvement over previous model.,1,negative,-0.7,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Battery drains faster than expected.,2,negative,-0.43,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Overall experience is acceptable.,3,neutral,0.04,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Camera is good but not revolutionary.,3,neutral,0.16,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Device heats up during gaming.,2,negative,-0.36,2026-02-06 05:33:54
+2f1a867c05b55f2b,Blazing fast phone,Performance is top tier and reliable.,4,positive,0.86,2026-02-06 05:33:54
+2f1a867c05b55f2b,Too expensive,Device heats up during gaming.,1,negative,-0.79,2026-02-06 05:33:54
+2f1a867c05b55f2b,Premium build quality,Runs extremely smooth with no lag in daily use.,4,positive,0.47,2026-02-06 05:33:54
+2f1a867c05b55f2b,Not worth upgrade,Battery drains faster than expected.,2,negative,-0.52,2026-02-06 05:33:54
+2f1a867c05b55f2b,Mixed feelings,Overall experience is acceptable.,3,neutral,0.05,2026-02-06 05:33:54
+2f1a867c05b55f2b,Blazing fast phone,Camera performance is outstanding and captures great detail.,4,positive,0.72,2026-02-06 05:33:54
+2f1a867c05b55f2b,Not worth upgrade,Battery drains faster than expected.,1,negative,-0.56,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Camera is good but not revolutionary.,3,neutral,-0.01,2026-02-06 05:33:54
+2f1a867c05b55f2b,Not worth upgrade,Speaker output is just average.,1,negative,-0.91,2026-02-06 05:33:54
+2f1a867c05b55f2b,Okay phone,Overall experience is acceptable.,3,neutral,0.02,2026-02-06 05:33:54
+2f1a867c05b55f2b,Decent overall,Nothing exceptional but reliable.,3,neutral,0.17,2026-02-06 05:33:54
+2f1a867c05b55f2b,Heating issues,Speaker output is just average.,2,negative,-0.58,2026-02-06 05:33:54
+2f1a867c05b55f2b,Heating issues,Device heats up during gaming.,2,negative,-0.52,2026-02-06 05:33:54
+2f1a867c05b55f2b,Amazing camera,Build quality feels very premium in hand.,4,positive,0.96,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Camera is good but not revolutionary.,3,neutral,-0.01,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Overall experience is acceptable.,3,neutral,-0.07,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Performance and battery are balanced.,3,neutral,-0.08,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Not much improvement over previous model.,1,negative,-0.8,2026-02-06 05:33:54
+2f1a867c05b55f2b,Not worth upgrade,Battery drains faster than expected.,2,negative,-0.93,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Performance is top tier and reliable.,4,positive,0.95,2026-02-06 05:33:54
+2f1a867c05b55f2b,Decent overall,Camera is good but not revolutionary.,3,neutral,-0.08,2026-02-06 05:33:54
+2f1a867c05b55f2b,Super smooth display,Build quality feels very premium in hand.,5,positive,0.74,2026-02-06 05:33:54
+2f1a867c05b55f2b,Decent overall,Phone works fine for normal usage.,3,neutral,-0.04,2026-02-06 05:33:54
+2f1a867c05b55f2b,Best Android experience,Performance is top tier and reliable.,5,positive,0.49,2026-02-06 05:33:54
+2f1a867c05b55f2b,Blazing fast phone,Performance is top tier and reliable.,4,positive,0.88,2026-02-06 05:33:54
+2f1a867c05b55f2b,Premium build quality,Display quality is stunning and vibrant.,4,positive,0.64,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Camera is good but not revolutionary.,3,neutral,-0.13,2026-02-06 05:33:54
+2f1a867c05b55f2b,Super smooth display,Runs extremely smooth with no lag in daily use.,5,positive,0.33,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Price feels too high for the upgrade.,1,negative,-0.57,2026-02-06 05:33:54
+2f1a867c05b55f2b,Battery could be better,Battery drains faster than expected.,1,negative,-0.54,2026-02-06 05:33:54
+2f1a867c05b55f2b,Super smooth display,Performance is top tier and reliable.,5,positive,0.48,2026-02-06 05:33:54
+2f1a867c05b55f2b,Works as expected,Overall experience is acceptable.,3,neutral,-0.05,2026-02-06 05:33:54
+2f1a867c05b55f2b,Super smooth display,Runs extremely smooth with no lag in daily use.,5,positive,0.78,2026-02-06 05:33:54
+2f1a867c05b55f2b,Nothing special,Nothing exceptional but reliable.,3,neutral,0.11,2026-02-06 05:33:54

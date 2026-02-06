@@ -9,3 +9,5 @@ numpy
 python-multipart
 scipy
 playwright
+sqlite3
+pandas
